@@ -1,4 +1,4 @@
-# Amazon-HQ2-AustinTX
+# Project: Amazon-HQ2-AustinTX
 Forecasted the effect on rent prices and wage should Amazon move its headquarters to Austin, TX.
 
 Urban Econometrics Project at the University of Texas, Austin
